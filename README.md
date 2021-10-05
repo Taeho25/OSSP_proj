@@ -1,7 +1,5 @@
 # OSSP_proj
-<<<<<<< HEAD
-local test
-=======
-remote test!
+local
 edit
->>>>>>> origin
+feature
+feature2
