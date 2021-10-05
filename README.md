@@ -1,2 +1,2 @@
 # OSSP_proj
-remote test
+local test
