@@ -1,3 +1,2 @@
 # OSSP_proj
-Hello World!
-remote
+remote test
